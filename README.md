@@ -1,2 +1,3 @@
 # FlickrTest
-Project is written in Swift 2.2
+Upgraded project to Swift 3
+
