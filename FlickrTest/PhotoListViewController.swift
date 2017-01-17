@@ -27,7 +27,6 @@ class PhotoListViewController: UIViewController {
         
         activityIndicator = UIActivityIndicatorView(activityIndicatorStyle: .gray)
         activityIndicator.frame = view.bounds
-        activityIndicator.backgroundColor = UIColor.red
         activityIndicator.center = view.center
         
         
